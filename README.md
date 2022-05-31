@@ -5,4 +5,4 @@
 > [^1]: The Work of Art in the Age of Mechanical Reproduction - Wikipedia. URL: https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction (дата звернення: 28.05.2022). 
 
 
-<img alt="https://pin.it/2SjbDjx" title="«Alphabet of human thought» concept author." src="https://raw.githubusercontent.com/nazar-chepliaka/notes/master/imgs/DBP_1966_518_Gottfried_Wilhelm_Leibniz.jpg" width="270"> 
+<img alt="https://pin.it/2SjbDjx" title="Gottfried Wilhelm Leibniz. «Alphabet of human thought» idea author." src="https://raw.githubusercontent.com/nazar-chepliaka/notes/master/imgs/DBP_1966_518_Gottfried_Wilhelm_Leibniz.jpg" width="270"> 
